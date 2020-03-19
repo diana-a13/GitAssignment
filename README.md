@@ -1,4 +1,4 @@
 # GitAssignment
 
-Student: Alecu Diana-Maria
-Grupa: 1074
+# Student: Alecu Diana-Maria
+# Grupa: 1074
